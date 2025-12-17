@@ -1,0 +1,3 @@
+# Dataverse schema notes
+
+Placeholder.
